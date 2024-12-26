@@ -1,4 +1,4 @@
-# Smart glasses for blind             
+# Smart glasses for Deaf            
 
 - ##  Project Aims
 
